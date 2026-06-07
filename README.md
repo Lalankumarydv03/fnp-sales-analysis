@@ -39,14 +39,6 @@ This project focuses on analyzing FNP sales data using Microsoft Excel. The dash
 - Order Date Slicer
 - Occasion Slicer
 
----
-
-## 📷 Dashboard Preview
-
-![Dashboard](screenshots/dashboard1.png)
-
----
-
 ## 🎯 Key Insights
 
 - Anniversary generated the highest revenue.
@@ -54,8 +46,6 @@ This project focuses on analyzing FNP sales data using Microsoft Excel. The dash
 - Occaecati Gift was the top-performing product.
 - Average customer spending was ₹3,846.
 - Sales data was analyzed across cities, products, and occasions.
-
----
 
 ## 💡 Skills Demonstrated
 
@@ -66,24 +56,6 @@ This project focuses on analyzing FNP sales data using Microsoft Excel. The dash
 - Data Visualization
 - Business Intelligence
 - Excel Analytics
-
----
-
-## 📂 Project Structure
-
-```
-FNP-Sales-Analysis/
-│
-├── dataset/
-│   └── fnp sales analysis.xlsx
-│
-├── screenshots/
-│   └── dashboard1.png
-│
-└── README.md
-```
-
----
 
 ## 👨‍💻 Author
 
